@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "514736953469",
+      "project_id": "home-for-orphan",
+      "storage_bucket": "home-for-orphan.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:514736953469:android:6edd9000e18283edcaf914",
+          "android_client_info": {
+            "package_name": "com.orphanageproject"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "514736953469-mgf9h2epc897iohcrvhuinel3640fdla.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyDQLHZrF30AFYtnaoXu341KWaTWysyiUZc"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "514736953469-mgf9h2epc897iohcrvhuinel3640fdla.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
